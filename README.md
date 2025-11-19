@@ -121,6 +121,3 @@ For professional inquiries, collaboration opportunities, or technical discussion
 [![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01abcdef1234567890)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
 
----
-
-✅ **Tip:** You can add animated GIFs for “currently coding” or coffee drinking to make it even more lively!
