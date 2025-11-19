@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0077B5&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Daeyan+Siddiqui;Chief+Technology+Officer;Full-Stack+Developer;Top+Rated+Upwork+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0077B5&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Daeyan+Siddiqui;Tech+Lead;Full-Stack+Developer;Top+Rated+Upwork+Freelancer+Tech+enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeyan-siddiqui-4b76b61b9/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daeyansid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daeyansidi826@gmail.com)
 
 </div>
 
@@ -104,7 +104,7 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 - **LinkedIn:** [Daeyan Siddiqui](https://www.linkedin.com/in/daeyan-siddiqui-4b76b61b9/)
 - **GitHub:** [daeyansid](https://github.com/daeyansid)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [daeyansidi826@gmail.com](mailto:daeyansidi826@gmail.com)
 
 ---
 
@@ -126,15 +126,14 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 ## ⚡ Fun Facts
 
-- Fitness enthusiast 🏋️‍♂️, on a mission **100kg → 85kg** 💪  
 - Boxing learner 🥊  
-- Tech nerd and mentor 🌐  
+- Tech nerd 🌐  
 
----
+<!-- --- -->
 
-## 📫 Let’s Connect
+<!-- ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daeyan-siddiqui)  
 [![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01abcdef1234567890)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)   -->
 
