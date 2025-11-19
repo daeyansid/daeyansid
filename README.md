@@ -1,45 +1,101 @@
-# 👋 Hey, I’m **Daeyan Siddiqui**
+<div align="center">
 
-🚀 **CTO | Full-Stack Developer | Upwork Top Rated | Tech Enthusiast**  
+# Daeyan Siddiqui
 
-I build **scalable apps**, lead projects, and love turning ideas into reality. I’m passionate about mentoring and learning new technologies.  
+**Chief Technology Officer | Full-Stack Developer | Top Rated Upwork Engineer**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeyan-siddiqui)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01abcdef1234567890)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## 💼 About Me
-- 🌟 **Current Role:** Chief Technology Officer at Monitr Technology Pvt Ltd  
-- 💻 **Freelance:** Top Rated Software Engineer on Upwork since 2021  
-- 🎓 **Leadership:** President of the Association for Computing Machinery (ACM)  
-- 📍 **Location:** Hyderabad, Pakistan  
-- ⚡ **Interests:** Full-stack development, DevOps, MERN stack, fitness & boxing 🥊  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Overview
 
-| Frontend | Backend | Database | DevOps & Tools |
-|----------|---------|----------|----------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+Experienced technology leader and full-stack developer specializing in building scalable applications and leading engineering teams. With a proven track record of delivering enterprise-grade solutions and maintaining a Top Rated status on Upwork since 2021, I combine technical expertise with strategic leadership to drive innovation.
 
----
+**Current Position:** Chief Technology Officer at Monitr Technology Pvt Ltd  
+**Location:** Hyderabad, Pakistan  
+**Leadership:** President, Association for Computing Machinery (ACM)
 
-## 🌱 Currently Learning
-
-![DevOps](https://img.shields.io/badge/DevOps-💻-brightgreen?style=for-the-badge) ![Cloud](https://img.shields.io/badge/Cloud-☁️-blue?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-⚙️-yellow?style=for-the-badge)  
-
-- Advanced **DevOps & Cloud Computing**  
-- **Microservices & Scalable Architectures**  
-- Real-time **MERN stack applications**  
 
 ---
 
-## 🏆 Achievements
+## Technical Expertise
 
-- ✅ Developed a **Complaint Management System** for State Bank of Pakistan  
-- ✅ Built a **Customized Law College System** with automated attendance & daily management features  
-- ✅ Top Rated Software Engineer on **Upwork**  
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Database & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+---
+
+## Key Projects
+
+### Complaint Management System - State Bank of Pakistan
+Enterprise-level complaint handling system designed for one of Pakistan's premier financial institutions, featuring robust workflow automation and comprehensive reporting capabilities.
+
+### Law College Management System
+Custom-built educational management platform with automated attendance tracking, daily operations management, and administrative workflow optimization.
+
+---
+
+## Professional Development
+
+Currently expanding expertise in:
+- Advanced DevOps practices and cloud-native architectures
+- Microservices design patterns and distributed systems
+- Real-time application development with the MERN stack
+- Infrastructure automation and scalability optimization
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaeyanSiddiqui&show_icons=true&theme=default&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeyanSiddiqui&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+For professional inquiries, collaboration opportunities, or technical discussions:
+
+- **LinkedIn:** [Daeyan Siddiqui](https://www.linkedin.com/in/daeyan-siddiqui)
+- **Upwork:** [View Profile](https://www.upwork.com/freelancers/~01abcdef1234567890)
+- **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+<div align="center">
+
+*Building scalable solutions and leading engineering excellence*
+
+</div>  
 
 ---
 
@@ -65,6 +121,3 @@ I build **scalable apps**, lead projects, and love turning ideas into reality. I
 [![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01abcdef1234567890)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
 
----
-
-✅ **Tip:** You can add animated GIFs for “currently coding” or coffee drinking to make it even more lively!
