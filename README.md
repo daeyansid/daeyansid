@@ -1,18 +1,24 @@
 <div align="center">
 
-# Daeyan Siddiqui
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0077B5&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+I'm+Daeyan+Siddiqui;Chief+Technology+Officer;Full-Stack+Developer;Top+Rated+Upwork+Engineer" alt="Typing SVG" />
 
-**Chief Technology Officer | Full-Stack Developer | Top Rated Upwork Engineer**
+<img src="https://komarev.com/ghpvc/?username=DaeyanSiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeyan-siddiqui)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01abcdef1234567890)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeyan-siddiqui)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01abcdef1234567890)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 </div>
 
 ---
 
-## Overview
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Overview
 
 Experienced technology leader and full-stack developer specializing in building scalable applications and leading engineering teams. With a proven track record of delivering enterprise-grade solutions and maintaining a Top Rated status on Upwork since 2021, I combine technical expertise with strategic leadership to drive innovation.
 
@@ -23,7 +29,7 @@ Experienced technology leader and full-stack developer specializing in building 
 
 ---
 
-## Technical Expertise
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Technical Expertise
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -49,7 +55,7 @@ Experienced technology leader and full-stack developer specializing in building 
 
 ---
 
-## Key Projects
+## 🚀 Key Projects
 
 ### Complaint Management System - State Bank of Pakistan
 Enterprise-level complaint handling system designed for one of Pakistan's premier financial institutions, featuring robust workflow automation and comprehensive reporting capabilities.
@@ -59,7 +65,7 @@ Custom-built educational management platform with automated attendance tracking,
 
 ---
 
-## Professional Development
+## 📚 Professional Development
 
 Currently expanding expertise in:
 - Advanced DevOps practices and cloud-native architectures
@@ -69,19 +75,31 @@ Currently expanding expertise in:
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaeyanSiddiqui&show_icons=true&theme=default&count_private=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=DaeyanSiddiqui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaeyanSiddiqui&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeyanSiddiqui&layout=compact&theme=default&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeyanSiddiqui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=DaeyanSiddiqui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaeyanSiddiqui&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## Contact
+## 📬 Contact
 
 For professional inquiries, collaboration opportunities, or technical discussions:
 
@@ -93,11 +111,11 @@ For professional inquiries, collaboration opportunities, or technical discussion
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
+
 *Building scalable solutions and leading engineering excellence*
 
-</div>  
-
----
+</div>
 
 ## 📊 GitHub Stats
 
