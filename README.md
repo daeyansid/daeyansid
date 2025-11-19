@@ -4,12 +4,12 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=DaeyanSiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=daeyansid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeyan-siddiqui)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01abcdef1234567890)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daeyan-siddiqui-4b76b61b9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daeyansid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -20,9 +20,9 @@
 
 Experienced technology leader and full-stack developer specializing in building scalable applications and leading engineering teams. With a proven track record of delivering enterprise-grade solutions and maintaining a Top Rated status on Upwork since 2021, I combine technical expertise with strategic leadership to drive innovation.
 
-**Current Position:** Chief Technology Officer at Monitr Technology Pvt Ltd  
+<!-- **Current Position:** Chief Technology Officer at Monitr Technology Pvt Ltd  
 **Location:** Hyderabad, Pakistan  
-**Leadership:** President, Association for Computing Machinery (ACM)
+**Leadership:** President, Association for Computing Machinery (ACM) -->
 
 
 ---
@@ -43,6 +43,7 @@ Experienced technology leader and full-stack developer specializing in building 
 ### Database & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### DevOps & Cloud
@@ -77,21 +78,21 @@ Currently expanding expertise in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DaeyanSiddiqui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaeyanSiddiqui&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=daeyansid&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daeyansid&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeyanSiddiqui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-<img src="https://github-profile-trophy.vercel.app/?username=DaeyanSiddiqui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeyansid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+<img src="https://github-profile-trophy.vercel.app/?username=daeyansid&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaeyanSiddiqui&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daeyansid&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -101,8 +102,8 @@ Currently expanding expertise in:
 
 For professional inquiries, collaboration opportunities, or technical discussions:
 
-- **LinkedIn:** [Daeyan Siddiqui](https://www.linkedin.com/in/daeyan-siddiqui)
-- **Upwork:** [View Profile](https://www.upwork.com/freelancers/~01abcdef1234567890)
+- **LinkedIn:** [Daeyan Siddiqui](https://www.linkedin.com/in/daeyan-siddiqui-4b76b61b9/)
+- **GitHub:** [daeyansid](https://github.com/daeyansid)
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
