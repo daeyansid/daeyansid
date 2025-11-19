@@ -1,47 +1,70 @@
-# Hi there, I'm Muahammad Daeyan Siddiqui 👋
+# 👋 Hey, I’m **Daeyan Siddiqui**
 
-## 👨‍💻 About Me
+🚀 **CTO | Full-Stack Developer | Upwork Top Rated | Tech Enthusiast**  
 
-I am a full-stack web developer with three years of experience in building amazing web applications. I also have a Experince in cybersecurity, which allows me to develop secure web applications that protect users' data and privacy. I am passionate about technology and love to explore new tools and frameworks to build innovative solutions.
+I build **scalable apps**, lead projects, and love turning ideas into reality. I’m passionate about mentoring and learning new technologies.  
 
-## 🚀 Skills
+---
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Python, PHP, Laravel
-- **Cybersecurity**: OWASP Top 10, Penetration Testing, Threat Modeling
+## 💼 About Me
+- 🌟 **Current Role:** Chief Technology Officer at Monitr Technology Pvt Ltd  
+- 💻 **Freelance:** Top Rated Software Engineer on Upwork since 2021  
+- 🎓 **Leadership:** President of the Association for Computing Machinery (ACM)  
+- 📍 **Location:** Hyderabad, Pakistan  
+- ⚡ **Interests:** Full-stack development, DevOps, MERN stack, fitness & boxing 🥊  
 
-## 💼 Projects
+---
 
-Here are some of my latest projects:
+## 🛠️ Tech Stack
 
-- [Freelancing Web Application](Private): The Freelancing Web Application is a platform connecting businesses and freelancers. Features include job posting, bidding, messaging, and secure payment processing. The platform streamlines the process of finding and hiring talented professionals, while providing opportunities for freelancers to grow their careers. 
-- [Online Examination with AI Monitoring](https://github.com/daeyansid/h_exam): For large scale Institutes for take an online exam just like physical and an AI model keep an eye on it to prevents cheating.
-- [Learning resources](https://github.com/daeyansid/learning-resources): Description of the project and its features
+| Frontend | Backend | Database | DevOps & Tools |
+|----------|---------|----------|----------------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
-## 🌟 Experience
+---
 
-- **Monitr** | *Founder/CEO* | *2022-Current*
+## 🌱 Currently Learning
 
-- **NIC Hyderabad** | *FOunder* | *2022-Current*
+![DevOps](https://img.shields.io/badge/DevOps-💻-brightgreen?style=for-the-badge) ![Cloud](https://img.shields.io/badge/Cloud-☁️-blue?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-⚙️-yellow?style=for-the-badge)  
 
-## 🎓 Education
+- Advanced **DevOps & Cloud Computing**  
+- **Microservices & Scalable Architectures**  
+- Real-time **MERN stack applications**  
 
-- *BS Software Enginreeing* | *SZABIST Hyderabad Pakistan* | *2021-2025*
+---
 
-## 🏆 Certifications
+## 🏆 Achievements
 
-- *Oracle ERP Developer* | *Navttc Pakistan* | *2021*
+- ✅ Developed a **Complaint Management System** for State Bank of Pakistan  
+- ✅ Built a **Customized Law College System** with automated attendance & daily management features  
+- ✅ Top Rated Software Engineer on **Upwork**  
 
-- *Full Stack Web Developer* | *UDEMT* | *2020*
+---
 
-- *GIT And GITHUB* | *GOOGLE* | *2023*
+## 📊 GitHub Stats
 
-- *JR Penetration Tester* | *TryHackMe* | *2023*
+![Daeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaeyanSiddiqui&show_icons=true&theme=radical&count_private=true)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeyanSiddiqui&layout=compact&theme=radical)  
 
-## 📫 Contact Me
+---
 
-- **Email:** daeyansidi826@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/daeyan-siddiqui-4b76b61b9/
+## ⚡ Fun Facts
 
-Thank you for visiting my GitHub profile. Feel free to contact me if you have any questions or collaboration ideas. Let's build something great together!
+- Fitness enthusiast 🏋️‍♂️, on a mission **100kg → 85kg** 💪  
+- Boxing learner 🥊  
+- Tech nerd and mentor 🌐  
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daeyan-siddiqui)  
+[![Upwork](https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01abcdef1234567890)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+
+---
+
+✅ **Tip:** You can add animated GIFs for “currently coding” or coffee drinking to make it even more lively!
